@@ -1,2 +1,2 @@
-# keymaps
-My keymaps
+# My Keymaps
+A place to keep and version my keymaps
